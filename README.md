@@ -1,4 +1,4 @@
-# Kali-Linux
+# Kali-Linux 🐱‍💻
 > usage for Pentest
 
 # :ant: O que estudaremos?
